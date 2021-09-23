@@ -13,3 +13,52 @@
 2021-09-20 10:18:21,049 INFO Configured
 2021-09-20 10:18:25,596 DEBUG navigating to url
 2021-09-20 10:18:25,938 INFO Window is maximized
+2021-09-22 14:48:36,283 INFO Configured
+2021-09-22 14:49:06,770 DEBUG navigating to url
+2021-09-22 14:49:07,269 INFO Window is maximized
+2021-09-22 14:51:53,047 INFO Configured
+2021-09-22 14:52:20,724 DEBUG navigating to url
+2021-09-22 14:52:21,112 INFO Window is maximized
+2021-09-22 14:52:21,781 INFO Configured
+2021-09-22 14:52:49,373 DEBUG navigating to url
+2021-09-22 14:52:49,734 INFO Window is maximized
+2021-09-22 16:01:21,888 INFO Configured
+2021-09-22 16:01:29,328 DEBUG navigating to url
+2021-09-22 16:01:30,123 INFO Window is maximized
+2021-09-22 16:01:30,894 INFO Configured
+2021-09-22 16:02:00,000 DEBUG navigating to url
+2021-09-22 16:02:00,677 INFO Window is maximized
+2021-09-22 16:06:45,119 INFO Configured
+2021-09-22 16:07:22,219 DEBUG navigating to url
+2021-09-22 16:07:22,635 INFO Window is maximized
+2021-09-22 16:07:23,548 INFO Configured
+2021-09-22 16:07:52,165 DEBUG navigating to url
+2021-09-22 16:07:52,587 INFO Window is maximized
+2021-09-22 16:12:57,756 INFO Configured
+2021-09-22 16:13:33,180 DEBUG navigating to url
+2021-09-22 16:13:33,643 INFO Window is maximized
+2021-09-22 16:13:34,379 INFO Configured
+2021-09-22 16:13:56,903 DEBUG navigating to url
+2021-09-22 16:13:57,375 INFO Window is maximized
+2021-09-22 16:27:01,684 INFO Configured
+2021-09-22 16:27:30,301 DEBUG navigating to url
+2021-09-22 16:27:30,983 INFO Window is maximized
+2021-09-22 16:39:00,394 INFO Configured
+2021-09-22 16:47:05,313 INFO Configured
+2021-09-22 16:47:39,171 DEBUG navigating to url
+2021-09-22 16:47:39,697 INFO Window is maximized
+2021-09-22 16:47:41,017 INFO Configured
+2021-09-22 16:48:09,726 DEBUG navigating to url
+2021-09-22 16:48:10,218 INFO Window is maximized
+2021-09-22 16:48:39,886 INFO Configured
+2021-09-22 16:49:13,245 DEBUG navigating to url
+2021-09-22 16:49:13,474 INFO Window is maximized
+2021-09-23 10:24:22,165 INFO Configured
+2021-09-23 10:24:50,907 DEBUG navigating to url
+2021-09-23 10:24:51,286 INFO Window is maximized
+2021-09-23 10:24:52,064 INFO Configured
+2021-09-23 10:25:27,107 DEBUG navigating to url
+2021-09-23 10:25:27,466 INFO Window is maximized
+2021-09-23 10:25:57,060 INFO Configured
+2021-09-23 10:26:24,999 DEBUG navigating to url
+2021-09-23 10:26:25,287 INFO Window is maximized

@@ -29,8 +29,19 @@ namespace ReportGenerationForAmazon
             test.Log(Status.Info, "Amazon Automation");
             WebPageAction.SignInAction.ReadDataFromExcel(driver);
             WebPageAction.SignInAction.LoginIntoAmazon(driver);
+            WebPageAction.SignInAction.TakeScreenShot(driver);
+            System.Threading.Thread.Sleep(200);
+            test.Info("ScreenShot", MediaEntityBuilder.CreateScreenCaptureFromPath(@"C:\Users\vedhashni.v\source\repos\ReportGenerationForAmazon\ReportGenerationForAmazon\TestScreenShots\AmazonTest.png").Build());
+            //test.Info("Details", MediaEntityBuilder.CreateScreenCaptureFromPath(@"C:\Users\vedhashni.v\source\repos\ReportGenerationForAmazon\ReportGenerationForAmazon\TestScreenShots\AmazonTest.png").Build());
             test.Log(Status.Pass, "TestCases Passed");
             report.Flush();
+        }
+
+        [Test, Order(2)]
+        public void TestMethodForEmailSending()
+        {
+            Email.EmailClass.ReadDataFromExcel();
+            Email.EmailClass.email_send();
         }
     }
 }
